@@ -1,0 +1,31 @@
+body{
+    margin: 0 auto;
+}
+#date{
+    color: rgb(213, 175, 175);
+}
+.container{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width:100vw;
+    height: 100vh;
+    display: grid;
+    margin: 0 auto;
+    place-items: center;
+    font-size: 70px ;
+    gap: 20px;
+    background-color: blue;
+}
+#hours{
+    color: rgb(213, 175, 175);
+}
+#minutes{
+    color: rgb(213, 175, 175);
+}
+#seconds{
+    color: rgb(213, 175, 175);
+}
+.manegment{
+    margin: 0%; 
+    width: 40vw;
+    height: 30vh;
+}
